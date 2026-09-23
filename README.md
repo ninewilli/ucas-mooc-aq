@@ -12,9 +12,21 @@
 
 <img width="1680" height="1109" alt="b5eaae119870f2fb585f54a806951a12" src="https://github.com/user-attachments/assets/cc415ce4-8f0b-4715-a6f8-daecaa6ac32c" />
 
+解压完毕后点击运行
+
+<img width="1032" height="39" alt="image" src="https://github.com/user-attachments/assets/2321814f-f375-4685-93db-994ccc5eb5e6" />
+
+进入国科大在线的相关慕课后，复制上述网址，填入这里
+
+<img width="542" height="120" alt="image" src="https://github.com/user-attachments/assets/1f195ce3-1ecc-482d-8c33-8ba60a254fa7" />
+
 记得勾选这两项
+
 <img width="531" height="83" alt="6572dc02-c521-4afb-ac31-d0738791554d" src="https://github.com/user-attachments/assets/9c57f911-48df-40a2-9acc-0ad3385705da" />
 
+然后点击启动，启动完成后扫码，结束后
+
+<img width="542" height="162" alt="image" src="https://github.com/user-attachments/assets/106d9f9c-35b7-4785-8bb5-a27eb1e39fa5" />
 
 ### 步骤1：环境准备
 
